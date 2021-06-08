@@ -1,0 +1,5 @@
+api:
+  url: https://gorest.co.in/public-api
+
+auth:
+  token: 'a6b44a67d1c61eac'
